@@ -10,6 +10,7 @@ public class A {
 	String name=scan.next();
 	String corrname=name.replace("@", "a");
 	System.out.println(corrname);
+		System.out.println("Hii am change from github");
 	
 	
 	}
