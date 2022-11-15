@@ -13,6 +13,7 @@ public class demo1 {
 		}
 		if(actnum==armnum) {
 			System.out.println("the given no is armstrong");
+			System.out.println("hii");
 		}
 		else {
 			System.out.println("no is not armstrong");
